@@ -19,9 +19,4 @@ Este repositório serve como um registro detalhado do meu percurso de treinament
 
 ---
 
-💡 **Contribuição**
-Este repositório é um trabalho em constante evolução. Encorajo contribuições, sugestões e feedback de outros alunos da 42 Porto e de qualquer pessoa interessada no processo de preparação para o exame final. Juntos, podemos enriquecer nossa jornada de aprendizado.
-
----
-
 🚀 Vamos aprender e crescer juntos! 🌟
