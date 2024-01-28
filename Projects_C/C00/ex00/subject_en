@@ -1,0 +1,8 @@
+Write a function that displays the character passed as a parameter.
+
+
+- It should be prototyped as follows:
+void ft_putchar(char c);
+
+To display the character, you should use the write function as follows.
+write(1, &c, 1);

@@ -1,0 +1,8 @@
+Escreva uma função que mostre o caractere passado como parâmetro.
+
+
+• Deve ser prototipada da seguinte maneira:
+void ft_putchar(char c);
+
+Para mostrar o caractere, deve usar a função write da seguinte maneira.
+write(1, &c, 1);
