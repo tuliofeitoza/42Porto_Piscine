@@ -1,0 +1,5 @@
+- Write a function that displays the lowercase alphabet, on a single line, in
+descending order, starting with the letter 'z'.
+
+- It should be prototyped as follows:
+void ft_print_reverse_alphabet(void);
