@@ -1,0 +1,5 @@
+- Write a function that shows all the digits, on a single line, in ascending order.
+order.
+
+- It should be prototyped as follows:
+void ft_print_numbers(void);
