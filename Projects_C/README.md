@@ -27,7 +27,7 @@ A linguagem de programação C é uma das mais antigas e fundamentais na computa
 
 ## 📚 Recursos Adicionais
 
-- [Programação Básica em C](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf):
+- [Programação Básica em C](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf)
 
 ## 🎓 Conclusão
 
