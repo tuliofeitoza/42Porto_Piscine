@@ -18,5 +18,9 @@ Este repositório serve como um registro detalhado do meu percurso de treinament
 4. 📓 **Notas e Anotações**: Minhas próprias notas e anotações sobre os tópicos abordados no curso, servindo como um registro pessoal do que aprendi.
 
 ---
+# Atenção 🚨✨
+
+Gostaria de destacar um ponto importante: a norminette é rigorosa e nunca deixa escapar detalhes. Ela está apontando problemas em nossos códigos devido à falta de correções nos comentários e espaçamentos excessivos. É essencial que estejamos atentos à lógica por trás dessas diretrizes. Não se trata apenas de seguir regras, mas sim de garantir a clareza e a eficiência de nosso código.
+
 
 🚀 Vamos aprender e crescer juntos! 🌟
