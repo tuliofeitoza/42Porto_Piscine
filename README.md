@@ -1,4 +1,4 @@
-📘 **Preparação para o Exame Final da 42 Porto** 🚀
+📘 **Preparação da 42 Porto** 🚀
 
 ---
 
