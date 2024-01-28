@@ -12,8 +12,7 @@
       <img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
    </a>
 </p>
-<p align="center">:star2: Star this repo! :star2:
-<b>Digite no Terminal:'curl ascii.live/rick'</b></p>
+<p align="center">:star2: Star this repo! :star2:</p>
 
 
 
