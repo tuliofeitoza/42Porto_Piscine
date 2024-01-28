@@ -1,0 +1,5 @@
+- Write a function that shows 'N' or 'P' according to the sign of the integer passed as a
+parameter. If n is negative, enter 'N'. If n is positive or null, enter 'P'.
+
+- It should be prototyped as follows:
+void ft_is_negative(int n);
