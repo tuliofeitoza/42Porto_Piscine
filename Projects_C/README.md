@@ -25,6 +25,10 @@ A linguagem de programação C é uma das mais antigas e fundamentais na computa
 - [Vídeo em Português](https://www.youtube.com/watch?v=6mUCcsnCn08&t=300s&pp=ygUCYyA%3D)
 - [Vídeo em Inglês](https://www.youtube.com/watch?v=U3aXWizDbQ4&pp=ygUFYyBpbiA%3D)
 
+## 📚 Recursos Adicionais
+
+- [Programação Básica em C](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf):
+
 ## 🎓 Conclusão
 
 Entender a lógica do C00 é o primeiro passo para se tornar um programador competente e bem-sucedido. Dedique tempo para estudar e praticar os conceitos apresentados neste curso, pois eles serão a base para seus futuros projetos e aprendizados em programação.
