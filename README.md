@@ -1,3 +1,31 @@
+<p align="center">
+   <a href="https://www.youtube.com/watch?v=aJ11nxDWKiU" target="_blank">
+      <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_piscine.png">
+   </a>
+</p>
+
+<p align="center">
+   <a href='https://www.linkedin.com/in/tuliofeitoza/' target="_blank">
+      <img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/>
+   </a>
+   <a href='https://profile.intra.42.fr/users/tsilva-f' target="_blank">
+      <img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
+   </a>
+</p>
+
+<p align="center">:star2: Star this repo to reach the others! :star2:</p>
+
+<p align="center">
+   <a href="https://github.com/tuliofeitoza/Project-42-Piscine" target="_blank">
+      <img width="30" src="https://media.tenor.com/nBt6RZkFJh8AAAAj/never-gonna.gif">
+   </a>
+   And don't forget to <b>$ 'curl ascii.live/rick'</b> someone if they left their pc unlocked 😆
+   <a href="https://github.com/tuliofeitoza/Project-42-Piscine" target="_blank">
+      <img width="30" src="https://media.tenor.com/nBt6RZkFJh8AAAAj/never-gonna.gif">
+   </a>
+</p>
+
+
 📘 **Preparação da 42 Porto** 🚀
 
 ---
