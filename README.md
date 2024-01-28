@@ -13,7 +13,7 @@
    </a>
 </p>
 <p align="center">:star2: Star this repo! :star2:
-<b>$ 'curl ascii.live/rick'</b></p>
+<b>Digite no Terminal: $ 'curl ascii.live/rick'</b></p>
 
 
 
