@@ -15,17 +15,7 @@
 
 <p align="center">:star2: Star this repo! :star2:</p>
 
-<p align="center">
-   <a href="https://github.com/tuliofeitoza/Project-42-Piscine" target="_blank">
-      <img width="30" src="https://media.tenor.com/nBt6RZkFJh8AAAAj/never-gonna.gif">
-   </a>
-   And don't forget to 
-   <b>$ 'curl ascii.live/rick'</b> 
-   someone if they left their pc unlocked 😆
-   <a href="https://github.com/tuliofeitoza/Project-42-Piscine" target="_blank">
-      <img width="30" src="https://media.tenor.com/nBt6RZkFJh8AAAAj/never-gonna.gif">
-   </a>
-</p>
+   <b>$ 'curl ascii.live/rick'</b>
 
 
 📘 **Preparação da 42 Porto** 🚀
