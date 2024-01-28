@@ -11,9 +11,8 @@
    <a href='https://profile.intra.42.fr/users/tsilva-f' target="_blank">
       <img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
    </a>
-   <b>$ 'curl ascii.live/rick'</b>
 </p>
-
+<p aling="center"><b>$ 'curl ascii.live/rick'</b>
 <p align="center">:star2: Star this repo! :star2:</p>
 
 
