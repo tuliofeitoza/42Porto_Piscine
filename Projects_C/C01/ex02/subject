@@ -1,0 +1,5 @@
+• Escreva uma função que troque o conteúdo de dois inteiros cujos endereços são
+passados como parâmetros.
+
+• Deverá ser prototipada da seguinte maneira:
+void ft_swap(int *a, int *b);

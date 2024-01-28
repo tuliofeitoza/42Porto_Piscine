@@ -1,0 +1,5 @@
+Escreva uma função que receba um ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para
+inteiro como parâmetro e dê ao inteiro o valor "42".
+
+• Deverá ser prototipada da seguinte maneira:
+void ft_ultimate_ft(int *********nbr);

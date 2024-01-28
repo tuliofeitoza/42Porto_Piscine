@@ -1,0 +1,6 @@
+• Escreva uma função ft_div_mod que tenha a seguinte prototipagem:
+void ft_div_mod(int a, int b, int *div, int *mod);
+
+• A função divide os dois parâmetros a e b e armazena o resultado no inteiro apontado
+por div.
+Ela também armazena o resto da divisão de a e b no inteiro apontado por mod.

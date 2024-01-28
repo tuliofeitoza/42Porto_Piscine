@@ -1,0 +1,5 @@
+• Escreva uma função que conte o número de caracteres de uma string e que retorne
+o valor encontrado.
+
+• Deverá ser prototipada da seguinte maneira:
+int ft_strlen(char *str);
