@@ -1,0 +1,15 @@
+• Escreva uma função que deixe a primeira letra de cada palavra em maiúsculo e o
+resto da palavra em minúsculo.
+
+• Uma palavra é uma sequência de caracteres alfanuméricos.
+
+• Deverá ser prototipada da seguinte maneira:
+char *ft_strcapitalize(char *str);
+
+• Deverá retornar str.
+
+• Por exemplo:
+ola, tudo bem? 42palavras quarenta-e-duas; cinquenta+e+um
+
+• Deve resultar em:
+Ola, Tudo Bem? 42palavras Quarenta-E-Duas; Cinquenta+E+Um
