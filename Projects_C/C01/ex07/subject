@@ -1,0 +1,6 @@
+• Escreva uma função que inverta a ordem dos elementos de um array de inteiros.
+
+• Os parâmetros são um ponteiro para inteiro e o número de inteiros no array.
+
+• A função deverá ser prototipada da seguinte maneira:
+void ft_rev_int_tab(int *tab, int size);

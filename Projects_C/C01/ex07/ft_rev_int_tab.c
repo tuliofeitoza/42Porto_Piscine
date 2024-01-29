@@ -5,38 +5,34 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: tsilva-f <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/28 20:27:10 by tsilva-f          #+#    #+#             */
-/*   Updated: 2024/01/28 20:46:42 by tsilva-f         ###   ########.fr       */
+/*   Created: 2024/01/29 14:53:54 by tsilva-f          #+#    #+#             */
+/*   Updated: 2024/01/29 15:01:36 by tsilva-f         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-// Protótipo da função ft_rev_int_tab
-void ft_rev_int_tab(int *tab, int size);
-
 // Definição da função ft_rev_int_tab
 void ft_rev_int_tab(int *tab, int size)
 {
-    // Declaração de variáveis
-    int f; // Índice do primeiro elemento do array
-    int r; // Índice do último elemento do array
-    int temp; // Variável temporária para troca de valores
+    int i;     // Variável para percorrer o array
+    int f;     // Variável para percorrer o array a partir do final
+    int temp;  // Variável temporária para armazenar o valor durante a troca
 
-    // Inicialização dos índices do primeiro e último elementos
-    f = 0;
-    r = size - 1;
+    // Inicialização das variáveis de iteração
+    i = 0;
+    f = size - 1;
 
-    // Loop para inverter o array até que os índices se cruzem
-    while (f < r)
+    // Loop para inverter o array
+    while (i < f)
     {
-        // Troca os elementos nos índices f e r
-        temp = tab[f];
-        tab[f] = tab[r];
-        tab[r] = temp;
+        // Troca os elementos nas posições i e f
+        temp = tab[i];
+        tab[i] = tab[f];
+        tab[f] = temp;
 
-        // Incrementa o índice do primeiro elemento e decrementa o índice do último elemento
-        f++;
-        r--;
+        // Atualiza os índices para continuar invertendo o array
+        i++;
+        f--;
     }
 }

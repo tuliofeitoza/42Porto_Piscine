@@ -12,18 +12,23 @@
 
 #include <unistd.h>
 
-char	*ft_strcpy(char *dest, char *src);
+// Protótipo da função ft_strcpy
+char *ft_strcpy(char *dest, char *src);
 
-char	*ft_strcpy(char *dest, char *src)
+// Implementação da função ft_strcpy
+char *ft_strcpy(char *dest, char *src)
 {
-	int	i;
+    int i = 0;
 
-	i = 0;
-	while(src[i] = '\0')
-	{
-		dest[i] = src[i];
-		i++;
-	}
-	dest[i] = '\0';
-	return (dest);
+    // Copia os caracteres de src para dest até encontrar '\0' em src
+    while (src[i] != '\0')
+    {
+        dest[i] = src[i];
+        i++;
+    }
+    
+    // Adiciona o caractere nulo de término de string em dest
+    dest[i] = '\0';
+    
+    return dest; // Retorna dest após a cópia
 }
