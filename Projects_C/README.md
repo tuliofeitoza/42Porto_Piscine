@@ -33,4 +33,4 @@ A linguagem de programação C é uma das mais antigas e fundamentais na computa
 
 Entender a lógica do C00 é o primeiro passo para se tornar um programador competente e bem-sucedido. Dedique tempo para estudar e praticar os conceitos apresentados neste curso, pois eles serão a base para seus futuros projetos e aprendizados em programação.
 
-Se tiver dúvidas ou precisar de ajuda, não hesite em entrar em contato!!
+Se tiver dúvidas ou precisar de ajuda, não hesite em entrar em contato!
