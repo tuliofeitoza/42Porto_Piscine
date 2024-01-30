@@ -1,4 +1,0 @@
-• Reproduzir de forma idêntica o funcionamento da função strncpy (man strncpy).
-
-• Deverá ser prototipada da seguinte maneira:
-char *ft_strncpy(char *dest, char *src, unsigned int n);

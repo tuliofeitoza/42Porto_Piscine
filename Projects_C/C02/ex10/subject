@@ -1,4 +1,0 @@
-• Reproduzir de forma idêntica o funcionamento da função strlcpy (man strlcpy).
-
-• Deverá ser prototipada da seguinte maneira:
-unsigned int ft_strlcpy(char *dest, char *src, unsigned int size);

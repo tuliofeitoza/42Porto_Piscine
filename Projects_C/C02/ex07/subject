@@ -1,6 +1,0 @@
-• Escreva uma função que coloque todas as letras em maiúsculo.
-
-• Deverá ser prototipada da seguinte maneira:
-char *ft_strupcase(char *str);
-
-• Deverá retornar str.
