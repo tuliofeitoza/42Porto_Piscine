@@ -1,0 +1,4 @@
+• Escreve uma função que mostre uma string de caracteres no standard output.
+
+• Deve ser prototipada da seguinte maneira:
+void ft_putstr(char *str);
