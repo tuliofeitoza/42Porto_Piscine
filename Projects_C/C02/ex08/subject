@@ -1,0 +1,6 @@
+• Escreva uma função que coloque todas as letras em minúsculo.
+
+• Deverá ser prototipada da seguinte maneira:
+char *ft_strlowcase(char *str);
+
+• Deverá retornar str.
