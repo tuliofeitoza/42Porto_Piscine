@@ -1,0 +1,4 @@
+• Reproduzir de forma idêntica o funcionamento da função strcmp (man strcmp).
+
+• Deve ser prototipada da seguinte maneira:
+int ft_strcmp(char *s1, char *s2);

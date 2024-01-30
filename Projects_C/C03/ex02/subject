@@ -1,0 +1,4 @@
+• Reproduzir de forma idêntica o funcionamento da função strcat (man strcat).
+
+• Deve ser prototipada da seguinte maneira:
+char *ft_strcat(char *dest, char *src);
