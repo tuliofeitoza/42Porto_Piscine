@@ -1,0 +1,21 @@
+• Escreve uma função que converta o início da string para a sua representação em inteiro
+
+• A string pode começar por um número arbitrário de ’white space’ (como definido por o
+isspace(3))
+
+• A string pode ser seguido por um número arbitrário de sinais + ou -. O sinal - vai mudar
+o sinal do inteiro retornado baseado no número de sinais - for par ou ímpar.
+
+• Por fim, a string deverá ser seguido por qualquer número da base 10
+
+• Sua função deve ler a string, desde que a string siga as regras e retorne o número encontrado até então.
+
+• Não deves considerar os overflows ou underflows, o resultado é considerado indefinido
+nesses casos.
+
+• Veja um exemplo de um programa que mostra o retorno do atoi:
+$>./a.out " ---+--+1234ab567"
+-1234
+
+• Deve ser prototipada da seguinte maneira:
+int ft_atoi(char *str);
