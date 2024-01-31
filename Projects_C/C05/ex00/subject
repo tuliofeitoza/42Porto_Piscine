@@ -1,0 +1,9 @@
+• Escreva uma função iterativa que retorne um número. Esse número deve ser o
+resultado da operação fatorial a partir do número passado como parâmetro.
+
+• Se o argumento não for válido, a função deve retornar 0.
+
+• Não deve gerir o "int overflow", o retorno da função será indefinido.
+
+• Ela deverá ser prototipada da seguinte maneira:
+int ft_iterative_factorial(int nb);
