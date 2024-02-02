@@ -1,37 +1,32 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_iterative_factorial.c                           :+:      :+:    :+:   */
+/*   ft_print_params.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: tsilva-f <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/31 02:09:27 by tsilva-f          #+#    #+#             */
-/*   Updated: 2024/01/31 02:10:52 by tsilva-f         ###   ########.fr       */
+/*   Created: 2024/01/29 16:52:48 by tsilva-f          #+#    #+#             */
+/*   Updated: 2024/01/29 17:06:15 by tsilva-f         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-int	ft_iterative_factorial(int nb)
+int	main(int ac, char **av)
 {
-	int	fact;
+	int	i;
+	int	f;
 
-	fact = 1;
-	if (nb < 0)
-		return (0);
-	if (nb <= 1)
-		return (fact);
-	while (nb > 1)
+	f = 1;
+	while (f < ac)
 	{
-		fact *= nb;
-		nb --;
+		i = 0;
+		while (av[f][i] != '\0')
+		{
+			write(1, &av[f][i], 1);
+			i++;
+		}
+		f++;
+		write(1, &"\n", 1);
 	}
-	return (fact);
 }
-
-/*#include <stdio.h>
-
-int main (void)
-{
-	printf("%i", ft_iterative_factorial(10));
-}*/
