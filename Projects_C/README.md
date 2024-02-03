@@ -34,3 +34,12 @@ A linguagem de programação C é uma das mais antigas e fundamentais na computa
 Entender a lógica do C00 é o primeiro passo para se tornar um programador competente e bem-sucedido. Dedique tempo para estudar e praticar os conceitos apresentados neste curso, pois eles serão a base para seus futuros projetos e aprendizados em programação.
 
 Se tiver dúvidas ou precisar de ajuda, não hesite em entrar em contato!
+
+## ℹ️ Observação pessoal
+
+Gostaria de compartilhar que, embora tenha me esforçado ao máximo, não consegui completar todos os projetos da piscina da 42 Porto. Este curso intensivo de 26 dias foi desafiador, especialmente porque eu estava há muito tempo sem praticar codificação e estudar. No entanto, mesmo enfrentando dificuldades, acredito que cada desafio e experiência contribuíram para o meu crescimento como programador.
+
+Estou determinado a continuar aprendendo e melhorando minhas habilidades em C, e estou confiante de que, com dedicação e prática contínua, serei capaz de dominar os conceitos apresentados na piscina e enfrentar com sucesso os futuros desafios de programação.
+
+Agradeço a oportunidade de participar deste curso e estou ansioso para continuar minha jornada de aprendizado em programação.
+

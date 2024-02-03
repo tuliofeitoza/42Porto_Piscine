@@ -12,11 +12,17 @@
 
 #include <unistd.h>
 
-int	ft_recursive_power(int nb, int power)
+// Função para calcular a potência de um número de forma recursiva
+int ft_recursive_power(int nb, int power)
 {
-	if (power < 0)
-		return (0);
-	if (power == 0)
-		return (1);
-	return (nb *= ft_recursive_power(nb, power - 1));
+    // Verifica se a potência é negativa
+    if (power < 0)
+        return (0); // Retorna 0 se a potência for negativa, pois não está definido para potências negativas
+
+    // Caso especial: potência igual a 0
+    if (power == 0)
+        return (1); // Retorna 1 para qualquer número elevado a 0
+
+    // Caso geral: calcula a potência de nb chamando recursivamente a função com power - 1
+    return (nb * ft_recursive_power(nb, power - 1)); // Retorna nb multiplicado pela potência recursiva de nb com power - 1
 }

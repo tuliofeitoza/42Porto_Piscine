@@ -12,21 +12,25 @@
 
 #include <unistd.h>
 
-int	main(int ac, char **av)
+// Função principal do programa
+int main(int ac, char **av)
 {
-	int	i;
-	int	f;
+    int f = 1; // Inicializa o índice do primeiro argumento (ignorando o nome do programa)
 
-	f = 1;
-	while (f < ac)
-	{
-		i = 0;
-		while (av[f][i] != '\0')
-		{
-			write(1, &av[f][i], 1);
-			i++;
-		}
-		f++;
-		write(1, &"\n", 1);
-	}
+    // Loop para iterar sobre os argumentos da linha de comando
+    while (f < ac)
+    {
+        int i = 0; // Inicializa um contador para percorrer a string atual
+
+        // Loop para iterar sobre os caracteres da string atual
+        while (av[f][i] != '\0')
+        {
+            write(1, &av[f][i], 1); // Escreve o caractere atual da string na saída padrão
+            i++; // Incrementa o contador para passar para o próximo caractere
+        }
+
+        f++; // Passa para o próximo argumento
+        write(1, "\n", 1); // Escreve uma nova linha na saída padrão após cada argumento
+    }
 }
+

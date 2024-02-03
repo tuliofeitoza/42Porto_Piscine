@@ -12,16 +12,18 @@
 
 #include <unistd.h>
 
-int	main(int ac, char *av[])
+// Função principal do programa
+int main(int ac, char *av[])
 {
-	int	i;
+    int i = 0; // Inicializa um contador para percorrer a string
 
-	i = 0;
-	(void) ac;
-	while (av[0][i] != '\0')
-	{
-		write(1, &av[0][i], 1);
-		i++;
-	}
-	write(1, "\n", 1);
+    // Loop para iterar sobre os caracteres da string
+    while (av[0][i] != '\0')
+    {
+        write(1, &av[0][i], 1); // Escreve o caractere atual da string na saída padrão
+        i++; // Incrementa o contador para passar para o próximo caractere
+    }
+
+    write(1, "\n", 1); // Escreve uma nova linha na saída padrão
 }
+
